@@ -1,0 +1,10 @@
+Good,1
+Have,1
+Hello,1
+a,1
+and,1
+day,1
+everyone,1
+good,2
+morning,1
+night,1

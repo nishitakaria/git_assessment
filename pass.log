@@ -1,0 +1,9 @@
+2019-05-09 22:06:18,837 Reading the password
+2019-05-09 22:06:18,852 Password should have atleast one number
+2019-05-09 22:06:18,852 Password should have atleast one special character from $@#
+2019-05-09 22:07:03,308 Reading the password
+2019-05-09 22:07:11,124 Reading the password
+2019-05-09 22:07:11,124 Password length should be between 6 to 12
+2019-05-09 22:07:11,124 Password should have atleast one uppercase letter
+2019-05-09 22:07:11,124 Password should have atleast one number
+2019-05-09 22:07:11,124 Password should have atleast one special character from $@#

@@ -1,0 +1,12 @@
+https://developers.google.com/edu/python/
+
+https://www.geeksforgeeks.org/python-programming-language/
+
+http://interactivepython.org/runestone/static/pythonds/index.html
+
+Linux:
+https://www.tecmint.com/10-linux-distributions-and-their-targeted-users/
+https://fossbytes.com/best-linux-distros-for-programming-developers/
+https://ryanstutorials.net/linuxtutorial/
+https://ryanstutorials.net/bash-scripting-tutorial/
+https://ss64.com/bash/
